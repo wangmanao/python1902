@@ -1,3 +1,0 @@
-hello
-abc
-this is a text
